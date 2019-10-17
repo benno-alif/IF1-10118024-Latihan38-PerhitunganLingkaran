@@ -6,10 +6,6 @@ public class Lingkaran {
     private Double diameter, jariJari;
     private Double Phi = Math.PI;
 
-    public void setDiameter(Double diameter) {
-        this.diameter = diameter;
-    }
-
     public void validasi() {
         String dmt;
         do {
